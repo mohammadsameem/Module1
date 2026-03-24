@@ -1,7 +1,7 @@
-/*
+~~~
 Developed by:Mohamed Sameem S
 RegisterNumber:212225040242 
-*/
+~~~
 
 # Conditional Statements in Python: Even or Odd Checker
 
